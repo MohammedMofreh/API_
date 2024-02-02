@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "rsOApix6Azd6HaeMASGY9w8MIwE2chmlEO4avYxr59M=",
+  "Source": "Test",
+  "BasePath": "_content/Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Test\\wwwroot",
+      "Source": "Test",
+      "ContentRoot": "D:\\#0.NET\\Test\\Test\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
